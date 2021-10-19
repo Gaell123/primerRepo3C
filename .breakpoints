@@ -1,5 +1,13 @@
 {
   "files": {
+    ".replit": [
+      {
+        "id": "5bcf5603-5d21-4d60-bf5d-90140d9a9573",
+        "line": 2,
+        "version": 22,
+        "index": 21
+      }
+    ],
     "mi_promedio.py": [
       {
         "id": "a40ba559-93fa-483e-975d-28cb76ef68d3",
